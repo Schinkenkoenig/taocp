@@ -19,11 +19,11 @@ but need reviving to Knuth's depth. Systems-level work and Odin are new.
 Seeding (2026-09-25, design interview): topics covered at degree level are
 `taught`, and Knuth-specific depth is `not started`. Nils upgrades any row that was
 genuinely hand-written and can be explained back. Odin and bit tricks are seeded
-from `Game/PROGRESS.md` (2026-09-17), which has both at `not started`.
+from chess-handmade `PROGRESS.md` (2026-09-17), which has both at `not started`.
 
 | Topic | Level | Note |
 |---|---|---|
-| Odin language | not started | #11; from `Game/PROGRESS.md` |
+| Odin language | not started | #11; from chess-handmade `PROGRESS.md` |
 | Cost measurement and benchmarking | not started | #10; learning target 4 |
 | Mathematical induction and correctness proofs | taught | M1 §1.1, §1.2.1 |
 | Sums, products, binomial coefficients | taught | M1 §1.2.3–1.2.6 |
@@ -55,7 +55,7 @@ from `Game/PROGRESS.md` (2026-09-17), which has both at `not started`.
 | Digital searching, tries | not started | M6 §6.3 |
 | Hashing | taught | M6 §6.4 |
 | Boolean functions and evaluation | taught | M7 §7.1.1–7.1.2 |
-| Bitwise tricks | not started | M7 §7.1.3; from `Game/PROGRESS.md` |
+| Bitwise tricks | not started | M7 §7.1.3; from chess-handmade `PROGRESS.md` |
 | Binary decision diagrams | not started | M7 §7.1.4 |
 | Generating combinatorial patterns (Gray codes etc.) | not started | M7 §7.2.1 |
 | Probability tools of Vol 4B | not started | M8, 4B opening chapter |
